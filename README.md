@@ -1,36 +1,61 @@
-# David Ebuanekpe
+# Hi, I'm David Ebuanekpe 👋
 
 ## Ethical Hacker | Cybersecurity Analyst | Full Stack Developer | AI Enthusiast
 
 ### About Me
 
-I am a cybersecurity professional and software developer with a background in Electrical & Electronics Engineering. My interests include:
+Results-driven cybersecurity professional and software developer with a Bachelor of Engineering (B.Eng.) in Electrical & Electronics Engineering. Passionate about ethical hacking, penetration testing, AI-powered security solutions, and full-stack development.
+
+### Core Skills
 
 - Ethical Hacking
 - Penetration Testing
 - Cybersecurity Analysis
-- Artificial Intelligence
+- Vulnerability Assessment
+- Python Programming
 - Full Stack Development
+- Artificial Intelligence
+- Linux Administration
 - Network Security
+- Web Application Security
 
-### Current Projects
+### Featured Projects
 
-- AI-Powered Phishing Email Detector
-- Network Vulnerability Scanner (Coming Soon)
-- Security Dashboard (Coming Soon)
+🔐 AI-Powered Phishing Email Detector  
+Machine learning application that detects phishing emails using NLP and supervised learning techniques.
+
+🚧 Upcoming Projects
+- Network Vulnerability Scanner
+- Password Strength Analyzer
+- Web Security Scanner
+- Threat Intelligence Dashboard
 
 ### Education
 
-Bachelor of Engineering (B.Eng.)
+Bachelor of Engineering (B.Eng.)  
 Electrical & Electronics Engineering
 
-### Certifications
+### Professional Interests
 
-- Fortinet Certified Fundamentals(In Progress)
+- Red Teaming
+- Blue Teaming
+- Threat Intelligence
+- AI Security
+- Cloud Security
+- Secure Software Development
+
+### Certifications 
+
+- Fortinet Certified Fundamentals (FCF)
 - Cisco Cybersecurity Essentials
-- TryHackMe Learning Paths(In progresss)
+- TryHackMe Learning Paths
+- Amazon web solution
+- python programing
+- Cisco certified Ethical hacker
 
 ### Connect With Me
 
-LinkedIn:
-linkedin.com/in/david-ebuanekpe-b5512a3a4
+LinkedIn: linkedin.com/in/david-ebuanekpe-b5512a3a4
+
+---
+*"Security is not a product, but a process."*
