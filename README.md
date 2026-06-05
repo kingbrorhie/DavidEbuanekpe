@@ -1,4 +1,3 @@
-# DavidEbuanekpe
 # David Ebuanekpe
 
 ## Ethical Hacker | Cybersecurity Analyst | Full Stack Developer | AI Enthusiast
